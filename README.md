@@ -57,20 +57,38 @@ PHP berhasil dijalankan melalui `localhost`. Browser menampilkan teks "PHP berha
 ### Latihan 2 – Variabel, Operator, dan Percabangan
 Menghitung nilai akhir dengan bobot tugas 30%, UTS 30%, dan UAS 40%, lalu menentukan predikat A/B/C/D dengan `if-elseif-else`. Contoh: tugas 85, UTS 78, UAS 90 menghasilkan nilai akhir 84,90 dan predikat B.
 
+<img width="634" height="259" alt="image" src="https://github.com/user-attachments/assets/51a8f2f8-ffff-4f24-bd1d-7444d9c29ccf" />
+
 ### Latihan 3 – Perulangan dan Array
 Daftar mahasiswa disimpan dalam array dan ditampilkan memakai `foreach` dalam daftar bernomor. Ditambahkan tiga nama baru sesuai perintah.
+
+<img width="515" height="560" alt="image" src="https://github.com/user-attachments/assets/ba16db60-8771-4f60-a6e7-f11770d5f936" />
 
 ### Latihan 4 – Function
 Dibuat function `hitungDiskon()`, `hitungLuasPersegiPanjang()`, dan `tentukanKelulusan()`. Hasil diskon ditampilkan dengan format Rupiah menggunakan `number_format()`.
 
+<img width="456" height="667" alt="image" src="https://github.com/user-attachments/assets/84217f19-1a70-4acd-8eda-f061bcbb7a1c" />
+
 ### Latihan 5 – Form GET
 Data kata kunci dikirim lewat URL (`?kata=...`) dan diterima dengan `$_GET`. Perubahan URL setelah form dikirim dapat dilihat langsung di address bar. GET tidak digunakan untuk data sensitif.
+
+<img width="518" height="658" alt="image" src="https://github.com/user-attachments/assets/27e43d88-6d5c-4f31-95bc-02ae34fa68a7" />
 
 ### Latihan 6 – Form POST
 Data nama dan program studi dikirim lewat body permintaan dan diterima dengan `$_POST`. Input divalidasi (tidak boleh kosong) dan ditampilkan kembali dengan `htmlspecialchars()`. Karakter seperti tanda kutip dan tag HTML tampil sebagai teks biasa.
 
+<img width="975" height="149" alt="image" src="https://github.com/user-attachments/assets/a80d41f4-88c8-49ad-a75e-944b96d4d1a9" />
+<img width="975" height="135" alt="image" src="https://github.com/user-attachments/assets/46c7137e-ca84-4ed1-adeb-c0de4f35e2a9" />
+<img width="975" height="214" alt="image" src="https://github.com/user-attachments/assets/a9c9dd8b-3d0f-48e2-b696-959364ab2846" />
+
 ### Latihan 7 – Pengolahan Data Sederhana
 Menghitung subtotal dari harga dan jumlah barang. Validasi memastikan nama tidak kosong, harga berupa angka tidak negatif, dan jumlah berupa bilangan bulat minimal 1.
+
+<img width="975" height="115" alt="image" src="https://github.com/user-attachments/assets/912518c3-c913-48f0-87db-65af0017281a" />
+<img width="975" height="126" alt="image" src="https://github.com/user-attachments/assets/86ffdc29-4288-4816-8052-acf00427f586" />
+<img width="975" height="86" alt="image" src="https://github.com/user-attachments/assets/59877108-6461-463d-bf9b-cb5536abade0" />
+<img width="975" height="45" alt="image" src="https://github.com/user-attachments/assets/82bdb4ad-2d76-4999-8190-f670a9e9df14" />
+<img width="975" height="145" alt="image" src="https://github.com/user-attachments/assets/38ea5a89-b6c1-4002-bbbc-4e836eb18284" />
 
 ### Mini Project – Formulir Data Mahasiswa
 Form berisi nama, NIM, program studi, semester, dan email dengan metode POST. Validasi server-side meliputi kolom wajib, NIM hanya angka, semester bilangan bulat 1–14, dan format email valid. Semua pesan error ditampilkan sekaligus. Jika valid, ringkasan data ditampilkan dengan `htmlspecialchars()`. Bagian pemrosesan dipisah dari tampilan HTML.
