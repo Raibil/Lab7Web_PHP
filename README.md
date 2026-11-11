@@ -1,4 +1,4 @@
-# Praktikum 7 – Pemrograman Server-Side dengan PHP
+<img width="810" height="97" alt="image" src="https://github.com/user-attachments/assets/b292f953-8cd4-41b1-84f5-3aec3a9ed221" /><img width="638" height="529" alt="image" src="https://github.com/user-attachments/assets/f74697b1-881f-44f9-ac97-cf110199404c" /># Praktikum 7 – Pemrograman Server-Side dengan PHP
 
 | Keterangan Diri |
 - Nama   Raihan Nabil Mas'ud
@@ -104,10 +104,31 @@ Form berisi nama, NIM, program studi, semester, dan email dengan metode POST. Va
 
 ### Eksperimen Mandiri
 1. **Rata-rata nilai:** menghitung rata-rata tiga komponen nilai dengan validasi rentang 0–100.
+
+<img width="638" height="529" alt="image" src="https://github.com/user-attachments/assets/46c868db-4af2-4075-9f62-d18eea233a69" />
+<img width="627" height="539" alt="image" src="https://github.com/user-attachments/assets/f2774c05-5a0a-4baa-8149-3c35d7ba2ad4" />
+
 2. **Pencarian dengan GET:** mencari nama dari array menggunakan `stripos()` sehingga pencarian tidak peka huruf besar/kecil.
+
+<img width="850" height="576" alt="image" src="https://github.com/user-attachments/assets/67fedae2-a98c-4f7b-b818-f67f79402f0a" />
+<img width="610" height="537" alt="image" src="https://github.com/user-attachments/assets/03c4d003-60ff-43c8-aba2-d5e04ec20621" />
+<img width="551" height="499" alt="image" src="https://github.com/user-attachments/assets/88abf9dc-b2a6-44b8-9eec-8e1edc2b1cd6" />
+
 3. **Format Rupiah:** function `formatRupiah()` agar format harga ditulis sekali dan dipakai berulang.
-4. **Validasi NIM:** NIM hanya boleh berisi angka dan panjangnya tepat 10 digit *(sesuaikan dengan ketentuan yang kamu tetapkan)*.
-5. **Tombol reset:** Reset bawaan HTML hanya mengembalikan isian form ke nilai awal di browser tanpa menghubungi server. Pemrosesan ulang di server (submit atau refresh) membuat PHP berjalan lagi dan halaman dibuat ulang. Karena PHP mengisi `value` dengan data yang dikirim sebelumnya, tombol reset bawaan tidak selalu mengosongkan form, sehingga digunakan JavaScript sederhana atau pemuatan ulang halaman untuk mengosongkannya.
+
+<img width="642" height="460" alt="image" src="https://github.com/user-attachments/assets/a91d2eab-3fdd-42d4-9e7c-054397a298df" />
+<img width="481" height="100" alt="image" src="https://github.com/user-attachments/assets/210a4e65-0c53-4578-a60e-420a8655201c" />
+
+5. **Validasi NIM:** NIM hanya boleh berisi angka dan panjangnya tepat 10 digit.
+
+<img width="810" height="97" alt="image" src="https://github.com/user-attachments/assets/7c9131bd-a215-4d03-bb1e-7767fa5d7954" />
+<img width="513" height="513" alt="image" src="https://github.com/user-attachments/assets/3a3270ac-5de4-4fcc-ba73-c2e6d242ec4e" />
+
+7. **Tombol reset:** Reset bawaan HTML hanya mengembalikan isian form ke nilai awal di browser tanpa menghubungi server. Pemrosesan ulang di server (submit atau refresh) membuat PHP berjalan lagi dan halaman dibuat ulang. Karena PHP mengisi `value` dengan data yang dikirim sebelumnya, tombol reset bawaan tidak selalu mengosongkan form, sehingga digunakan JavaScript sederhana atau pemuatan ulang halaman untuk mengosongkannya.
+
+<img width="715" height="279" alt="image" src="https://github.com/user-attachments/assets/6a7e0a40-d51d-4fbd-9868-8b7b2b0d7f03" />
+<img width="532" height="461" alt="image" src="https://github.com/user-attachments/assets/9b175e08-e677-4f87-9aff-ae7c54d23dd5" />
+<img width="533" height="474" alt="image" src="https://github.com/user-attachments/assets/d87aceba-37fe-4dd5-9f1f-e25e6fb7deaf" />
 
 ## Jawaban Pertanyaan Evaluasi
 
