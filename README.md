@@ -93,6 +93,15 @@ Menghitung subtotal dari harga dan jumlah barang. Validasi memastikan nama tidak
 ### Mini Project – Formulir Data Mahasiswa
 Form berisi nama, NIM, program studi, semester, dan email dengan metode POST. Validasi server-side meliputi kolom wajib, NIM hanya angka, semester bilangan bulat 1–14, dan format email valid. Semua pesan error ditampilkan sekaligus. Jika valid, ringkasan data ditampilkan dengan `htmlspecialchars()`. Bagian pemrosesan dipisah dari tampilan HTML.
 
+<img width="818" height="481" alt="image" src="https://github.com/user-attachments/assets/202c78fc-185b-4ecf-bc7c-974f9db75ce4" />
+<img width="574" height="515" alt="image" src="https://github.com/user-attachments/assets/284300c6-ebc2-4643-945d-99bd4308be84" />
+<img width="563" height="498" alt="image" src="https://github.com/user-attachments/assets/c18fe03a-47f5-44db-9f84-6340de359293" />
+<img width="664" height="583" alt="image" src="https://github.com/user-attachments/assets/5467ff4b-ed37-489c-90e0-50b8cfd06eb3" />
+<img width="664" height="594" alt="image" src="https://github.com/user-attachments/assets/3f439821-9d20-40b1-8674-6c6184718874" />
+<img width="726" height="640" alt="image" src="https://github.com/user-attachments/assets/6fd75d3b-5234-4714-913d-f5f289b8d296" />
+<img width="729" height="590" alt="image" src="https://github.com/user-attachments/assets/4c3d4df2-b481-4fab-a46d-0efb8e698699" />
+<img width="519" height="675" alt="image" src="https://github.com/user-attachments/assets/5f004ab0-bbc6-4b34-82b4-5bf4d512a98a" />
+
 ### Eksperimen Mandiri
 1. **Rata-rata nilai:** menghitung rata-rata tiga komponen nilai dengan validasi rentang 0–100.
 2. **Pencarian dengan GET:** mencari nama dari array menggunakan `stripos()` sehingga pencarian tidak peka huruf besar/kecil.
