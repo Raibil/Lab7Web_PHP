@@ -119,12 +119,12 @@ Form berisi nama, NIM, program studi, semester, dan email dengan metode POST. Va
 <img width="642" height="460" alt="image" src="https://github.com/user-attachments/assets/a91d2eab-3fdd-42d4-9e7c-054397a298df" />
 <img width="481" height="100" alt="image" src="https://github.com/user-attachments/assets/210a4e65-0c53-4578-a60e-420a8655201c" />
 
-5. **Validasi NIM:** NIM hanya boleh berisi angka dan panjangnya tepat 10 digit.
+4. **Validasi NIM:** NIM hanya boleh berisi angka dan panjangnya tepat 10 digit.
 
 <img width="810" height="97" alt="image" src="https://github.com/user-attachments/assets/7c9131bd-a215-4d03-bb1e-7767fa5d7954" />
 <img width="513" height="513" alt="image" src="https://github.com/user-attachments/assets/3a3270ac-5de4-4fcc-ba73-c2e6d242ec4e" />
 
-7. **Tombol reset:** Reset bawaan HTML hanya mengembalikan isian form ke nilai awal di browser tanpa menghubungi server. Pemrosesan ulang di server (submit atau refresh) membuat PHP berjalan lagi dan halaman dibuat ulang. Karena PHP mengisi `value` dengan data yang dikirim sebelumnya, tombol reset bawaan tidak selalu mengosongkan form, sehingga digunakan JavaScript sederhana atau pemuatan ulang halaman untuk mengosongkannya.
+5. **Tombol reset:** Reset bawaan HTML hanya mengembalikan isian form ke nilai awal di browser tanpa menghubungi server. Pemrosesan ulang di server (submit atau refresh) membuat PHP berjalan lagi dan halaman dibuat ulang. Karena PHP mengisi `value` dengan data yang dikirim sebelumnya, tombol reset bawaan tidak selalu mengosongkan form, sehingga digunakan JavaScript sederhana atau pemuatan ulang halaman untuk mengosongkannya.
 
 <img width="715" height="279" alt="image" src="https://github.com/user-attachments/assets/6a7e0a40-d51d-4fbd-9868-8b7b2b0d7f03" />
 <img width="532" height="461" alt="image" src="https://github.com/user-attachments/assets/9b175e08-e677-4f87-9aff-ae7c54d23dd5" />
