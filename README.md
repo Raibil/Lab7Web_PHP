@@ -1,4 +1,4 @@
-<img width="810" height="97" alt="image" src="https://github.com/user-attachments/assets/b292f953-8cd4-41b1-84f5-3aec3a9ed221" /><img width="638" height="529" alt="image" src="https://github.com/user-attachments/assets/f74697b1-881f-44f9-ac97-cf110199404c" /># Praktikum 7 – Pemrograman Server-Side dengan PHP
+Praktikum 7 – Pemrograman Server-Side dengan PHP
 
 | Keterangan Diri |
 - Nama   Raihan Nabil Mas'ud
