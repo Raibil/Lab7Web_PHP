@@ -50,6 +50,7 @@ lab7_php/
 
 ### Latihan 1 – Menjalankan PHP
 PHP berhasil dijalankan melalui `localhost`. Browser menampilkan teks "PHP berhasil dijalankan" dan waktu server, sedangkan kode PHP tidak tampil sebagai teks.
+
 <img width="581" height="438" alt="image" src="https://github.com/user-attachments/assets/aa63bc54-5f3c-4639-bd39-51380ac1ff96" />
 <img width="601" height="237" alt="image" src="https://github.com/user-attachments/assets/11f13230-f2ab-49e1-9c50-8b038201da28" />
 
