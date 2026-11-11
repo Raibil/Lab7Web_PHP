@@ -1,12 +1,9 @@
 # Praktikum 7 – Pemrograman Server-Side dengan PHP
 
-| Keterangan |
-|---|---|
-| Mata Kuliah | Pemrograman Web |
-| Praktikum | 7 – Pemrograman Server-Side dengan PHP |
-| Nama | Raihan Nabil Mas'ud |
-| NIM | 312510094 |
-| Kelas | I.25.1A |
+| Keterangan Diri |
+- Nama   Raihan Nabil Mas'ud
+- NIM    312510094
+- Kelas  I.25.1A
 
 ## Tujuan Praktikum
 
